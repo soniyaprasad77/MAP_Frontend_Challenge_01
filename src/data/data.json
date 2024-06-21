@@ -1,0 +1,223 @@
+[
+  {
+    "id": 1,
+    "name": "Live Music with Richlybent!",
+    "address": "Rosa Fierro Cellars",
+    "description": "Bring your dancin' shoes and join us for wine and live music with Richlybent singing R&B & Motown!",
+    "image": "/images/SamplePic01.jpg",
+    "date": "June 25, 2024",
+    "time": "17:30 - 20:30",
+    "price": "FREE",
+    "tag": "Winery"
+  },
+  {
+    "id": 2,
+    "name": "Jazz Night at The Blue Note",
+    "address": "The Blue Note",
+    "description": "Enjoy a night of smooth jazz with the Blue Note Band. Perfect for a relaxing evening out.",
+    "image": "/images/SamplePic02.jpg",
+    "date": "July 1, 2024",
+    "time": "19:00 - 22:00",
+    "price": "$10",
+    "tag":"Bar/Restaurant Events"
+  
+  },
+  {
+    "id": 3,
+    "name": "Birthday Bash for Sarah",
+    "address": "Sarah's Residence",
+    "description": "Come celebrate Sarah's 30th birthday with food, drinks, and a lot of fun!",
+    "image": "/images/SamplePic03.jpg",
+    "date": "July 15, 2024",
+    "time": "18:00 - 23:00",
+    "price": "FREE",
+    "tag": "Holiday Events"
+  },
+  {
+    "id": 4,
+    "name": "Wedding Ceremony of Jack and Jill",
+    "address": "Garden Park",
+    "description": "Join us for the beautiful wedding ceremony of Jack and Jill followed by a reception.",
+    "image": "/images/SamplePic04.jpg",
+    "date": "August 5, 2024",
+    "time": "16:00 - 22:00",
+    "price": "By Invitation",
+    "tag": "Holiday Events"
+  },
+  {
+    "id": 5,
+    "name": "Bachelor Party for Mike",
+    "address": "Club Nightlife",
+    "description": "Celebrate Mike's last night of freedom with a wild night out at Club Nightlife.",
+    "image": "/images/SamplePic05.jpg",
+    "date": "August 20, 2024",
+    "time": "21:00 - 02:00",
+    "price": "$30",
+    "tag": "Bar/Restaurant Events"
+  },
+  {
+    "id": 6,
+    "name": "Community Gathering at Central Museum",
+    "address": "Central Mosque",
+    "description": "Join us for a community gathering with fun, food, and discussions.",
+    "image": "/images/SamplePic06.jpg",
+    "date": "September 1, 2024",
+    "time": "18:00 - 20:00",
+    "price": "FREE",
+    "tag": "Meetings & Conferences"
+  },
+  {
+    "id": 7,
+    "name": "Rock Concert with The Loud Ones",
+    "address": "Downtown Arena",
+    "description": "Get ready to rock with The Loud Ones at Downtown Arena!",
+    "image": "/images/SamplePic07.jpg",
+    "date": "September 15, 2024",
+    "time": "19:00 - 22:00",
+    "price": "$50",
+    "tag": "Concerts & Performances"
+  },
+  {
+    "id": 8,
+    "name": "Wine Tasting Party",
+    "address": "Vineyard Estate",
+    "description": "Sample a variety of wines and enjoy gourmet snacks at our Wine Tasting Party.",
+    "image": "/images/SamplePic08.jpg",
+    "date": "October 10, 2024",
+    "time": "14:00 - 18:00",
+    "price": "$25",
+    "tag": "Winery"
+  },
+  {
+    "id": 9,
+    "name": "Charity Gala for Children's Hospital",
+    "address": "Grand Ballroom",
+    "description": "Attend our annual Charity Gala to support the Children's Hospital with dinner, dancing, and auctions.",
+    "image": "/images/SamplePic09.jpg",
+    "date": "November 1, 2024",
+    "time": "18:30 - 23:00",
+    "price": "$100"
+    
+  },
+  {
+    "id": 10,
+    "name": "Classical Music Evening",
+    "address": "Symphony Hall",
+    "description": "An evening of classical music performed by the city orchestra.",
+    "image": "/images/SamplePic10.jpg",
+    "date": "November 15, 2024",
+    "time": "19:30 - 21:30",
+    "price": "$40",
+    "tag": "Concerts & Performances"
+  },
+  {
+    "id": 11,
+    "name": "Holiday Market and Festival",
+    "address": "Town Square",
+    "description": "Shop for holiday gifts and enjoy festive activities at the Holiday Market and Festival.",
+    "image": "/images/SamplePic11.jpg",
+    "date": "December 5, 2024",
+    "time": "10:00 - 18:00",
+    "price": "FREE",
+    "tag": "Festivals & Fairs"
+  },
+  {
+    "id": 12,
+    "name": "Christmas Eve Service",
+    "address": "St. John's Church",
+    "description": "Celebrate Christmas Eve with a special service and carol singing.",
+    "image": "/images/SamplePic12.jpg",
+    "date": "December 24, 2024",
+    "time": "17:00 - 19:00",
+    "price": "FREE",
+    "tag": "Holiday Events"
+  },
+  {
+    "id": 13,
+    "name": "New Year's Eve Party",
+    "address": "City Hotel Ballroom",
+    "description": "Ring in the new year with a glamorous party, complete with live music and a countdown to midnight.",
+    "image": "/images/SamplePic13.jpg",
+    "date": "December 31, 2024",
+    "time": "21:00 - 01:00",
+    "price": "$75",
+    "tag": "Holiday Events"
+  },
+  {
+    "id": 14,
+    "name": "Holi Celebration: Play with Colors!",
+    "address": "City Park",
+    "description": "Celebrate the festival of colors with music, dance, and traditional Indian food.",
+    "image": "/images/SamplePic14.jpg",
+    "date": "January 15, 2025",
+    "time": "09:00 - 17:00",
+    "price": "$200"
+  },
+  {
+    "id": 15,
+    "name": "Cooking Workshop: Italian Cuisine",
+    "address": "Gourmet Kitchen Studio",
+    "description": "Learn to cook delicious Italian dishes with our expert chef.",
+    "image": "/images/SamplePic15.jpg",
+    "date": "February 5, 2025",
+    "time": "11:00 - 14:00",
+    "price": "$50",
+    "tag": "Classes & Workshops"
+  },
+  {
+    "id": 16,
+    "name": "Art Exhibition: Modern Art",
+    "address": "City Art Gallery",
+    "description": "Explore the latest works from modern artists at our new exhibition.",
+    "image": "/images/SamplePic16.jpg",
+    "date": "March 10, 2025",
+    "time": "10:00 - 17:00",
+    "price": "$15",
+    "tag": "Galleries & Exhibitions"
+  },
+  {
+    "id": 17,
+    "name": "Tech Conference 2025",
+    "address": "Convention Center",
+    "description": "Join industry leaders for a day of talks, networking, and workshops on the latest in technology.",
+    "image": "/images/SamplePic17.jpg",
+    "date": "April 20, 2025",
+    "time": "09:00 - 17:00",
+    "price": "$150",
+    "tag": "Meetings & Conferences"
+  },
+  {
+    "id": 18,
+    "name": "Spring Festival",
+    "address": "City Park",
+    "description": "Celebrate the arrival of spring with food stalls, music, and activities for all ages.",
+    "image": "/images/SamplePic18.jpg",
+    "date": "May 1, 2025",
+    "time": "10:00 - 18:00",
+    "price": "FREE",
+    "tag": "Festivals & Fairs"
+  },
+  {
+    "id": 19,
+    "name": "Book Club Meeting",
+    "address": "Public Library",
+    "description": "Discuss this month's book selection with fellow book enthusiasts.",
+    "image": "/images/SamplePic19.jpg",
+    "date": "May 15, 2025",
+    "time": "18:00 - 20:00",
+    "price": "FREE",
+    "tag": "Meetings & Conferences"
+  },
+  {
+    "id": 20,
+    "name": "Summer Beach Party",
+    "address": "Sunny Beach",
+    "description": "Join us for a fun day at the beach with music, games, and a barbecue.",
+    "image": "/images/SamplePic20.jpg",
+    "date": "June 10, 2025",
+    "time": "12:00 - 18:00",
+    "price": "FREE",
+    "tag": "Outdoor Events"
+  }
+]
+
