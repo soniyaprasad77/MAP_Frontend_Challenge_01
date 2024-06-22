@@ -90,9 +90,9 @@
   },
   {
     "id": 9,
-    "name": "Charity Gala for Children's Hospital",
+    "name": "Dance for a Cause Gala",
     "address": "Grand Ballroom",
-    "description": "Attend our annual Charity Gala to support the Children's Hospital with dinner, dancing, and auctions.",
+    "description": "Join us for a night of dancing and fundraising for a good cause.",
     "image": "/images/SamplePic09.jpg",
     "date": "November 1, 2024",
     "time": "18:30 - 23:00",
@@ -112,14 +112,14 @@
   },
   {
     "id": 11,
-    "name": "Holiday Market and Festival",
+    "name": "Dj Night at The Blue Note",
     "address": "Town Square",
-    "description": "Shop for holiday gifts and enjoy festive activities at the Holiday Market and Festival.",
+    "description": "Enjoy a night of music and dancing with our resident DJ at The Blue Note.",
     "image": "/images/SamplePic11.jpg",
     "date": "December 5, 2024",
     "time": "10:00 - 18:00",
     "price": "FREE",
-    "tag": "Festivals & Fairs"
+    "tag": "Bar/Restaurant Events"
   },
   {
     "id": 12,
@@ -166,9 +166,9 @@
   },
   {
     "id": 16,
-    "name": "Art Exhibition: Modern Art",
-    "address": "City Art Gallery",
-    "description": "Explore the latest works from modern artists at our new exhibition.",
+    "name": "Festival of Lights",
+    "address": "City Light Gallery",
+    "description": "Experience a magical display of lights and art installations at the City Light Gallery.",
     "image": "/images/SamplePic16.jpg",
     "date": "March 10, 2025",
     "time": "10:00 - 17:00",
@@ -188,9 +188,9 @@
   },
   {
     "id": 18,
-    "name": "Spring Festival",
+    "name": "Fireworks Festival",
     "address": "City Park",
-    "description": "Celebrate the arrival of spring with food stalls, music, and activities for all ages.",
+    "description": "Enjoy a spectacular fireworks display with music and food trucks at City Park.",
     "image": "/images/SamplePic18.jpg",
     "date": "May 1, 2025",
     "time": "10:00 - 18:00",

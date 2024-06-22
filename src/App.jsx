@@ -1,12 +1,12 @@
-import cardData from "./data/data.json";
-import Card from "./components/Card";
-export default function App() {
+import CardList from "./components/CardList";
+
+const App = () => {
   return (
-<>
-    <div className="flex flex-col items-center justify-center min-h-screen py-2">
-      <h1 className="text-4xl font-bold text-gray-800">Events</h1>
-      <Card props={cardData} />
+    <div className='flex flex-col m-8'>
+      <h1 className='text-4xl font-bold text-green-800 flex justify-center'>Events</h1>
+      <CardList />
     </div>
-</>
-  )
-}
+  );
+};
+
+export default App;
